@@ -7,6 +7,8 @@
     <string name="day4">THURSDAY</string>
     <string name="day5">FRIDAY</string>
     <string name="day6">SATURDAY</string>
-
-
+    <string name="dayName1">TIMETABLE</string>
+    <string name="time">Timings</string>
+    <string name="sub">Subjects</string>
+    <string name="grid">Grid</string>
 </resources>
