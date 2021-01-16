@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">TimeTable</string>
+    <string name="heading2">Winter Semester 2021</string>
+    <string name="day1">MONDAY</string>
+    <string name="day2">TUESDAY</string>
+    <string name="day3">WEDNESDAY</string>
+    <string name="day4">THURSDAY</string>
+    <string name="day5">FRIDAY</string>
+    <string name="day6">SATURDAY</string>
+
+
 </resources>
